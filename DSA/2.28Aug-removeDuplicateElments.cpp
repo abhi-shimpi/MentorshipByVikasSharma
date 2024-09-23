@@ -111,3 +111,7 @@ int main() {
     vector<int> ans = removeDuplicate(vec);
     printArray(ans);
 }
+
+
+// https://chatgpt.com/c/594a172d-3dfb-4a65-a8a4-623c53dbba83
+// https://chatgpt.com/c/36574593-5fda-4a02-9ba0-5282909710b2
